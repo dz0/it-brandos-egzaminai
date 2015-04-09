@@ -4,7 +4,7 @@ Brandos egzaminų programavimo užduočių sprendimai
 Pilnus egzaminų užduočių aprašymus galima rasti `nec.lt <http://nec.lt/441/>`_
 svetainėje.
 
-Visos užduotys išspręstos naudojant Python_ programavimo kalbą.
+Visos užduotys išspręstos naudojant Python_ programavimo kalbą -- ir palyginimui -- C++. Kai ką galima rasti http://programavimopamokos.net/
 
 Kodėl Python?
 -------------
